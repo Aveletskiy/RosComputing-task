@@ -1,0 +1,13 @@
+.container
+  form#productEditForm
+    h3 Hello
+    ul
+      li
+        label(for="productName") Product Name:
+        input(type="text" data-bind="value: productName")#productName.k-textbox
+      li
+        label(for="reorderLevel") Reorder Level:
+        input(type="number" data-role="numerictextbox" data-format="n0" data-bind="value ReorderLevel")#reorderLevel
+      li.accept
+        button.k-button(type="button") Check
+      li.status

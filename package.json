@@ -1,0 +1,35 @@
+{
+  "name": "kendo-forms",
+  "version": "1.0.0",
+  "description": "task for RosComputing",
+  "main": "index.js",
+  "devDependencies": {
+    "del": "^2.2.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-clean-css": "^2.0.3",
+    "gulp-concat-css": "^2.3.0",
+    "gulp-debug": "^2.1.2",
+    "gulp-jade": "^1.1.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-load-plugins": "^1.2.4",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-watch": "^4.3.5",
+    "js-sorting": "^3.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aveletsky/RosComputing-task.git"
+  },
+  "author": "Aveletsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aveletsky/RosComputing-task/issues"
+  },
+  "homepage": "https://github.com/Aveletsky/RosComputing-task#readme"
+}
